@@ -1,0 +1,24 @@
+.caja {
+	border: 2px orange solid;
+	width: 250px;
+	padding:9px;
+	padding-bottom: 20px;
+	margin:0px 0px 0px 20px;
+}
+.caja2 {
+	border: 2px orange solid;
+	width: 250px;
+	padding:9px;
+	padding-bottom: 20px;
+	margin:0px 0px 0px 20px;	
+}
+.caja3 {
+	border: 2px orange solid;
+	width: 250px;
+	padding:9px;
+	padding-bottom: 20px;
+    margin:0px 0px 0px 20px;
+}
+p{
+	font-size: 15px;
+}
